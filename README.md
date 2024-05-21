@@ -15,6 +15,9 @@ Fig3 : Exports vs Imports:
 
 ![Screenshot 2024-05-22 003334](https://github.com/TechMaster-007/Python-COVID-19-Trade-Impact-Data-Analysis/assets/130140391/63128acf-eff2-4827-9dfa-163512d12135)
 
+Fig4 : Top Commodities Affected :
+
+
 
 
 
