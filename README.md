@@ -7,6 +7,10 @@ Fig1 : Overall Trade Trend:
 ![Screenshot 2024-05-21 135349](https://github.com/TechMaster-007/Python-COVID-19-Trade-Impact-Data-Analysis/assets/130140391/d3f6bce4-009f-4778-914a-67d36684e91a)
 
 Fig2 : Country Analysis:
+![Screenshot 2024-05-21 140402](https://github.com/TechMaster-007/Python-COVID-19-Trade-Impact-Data-Analysis/assets/130140391/ffbef2c0-5c81-4ffa-8bec-8bb5783ff8fc)
+![Screenshot 2024-05-21 140506](https://github.com/TechMaster-007/Python-COVID-19-Trade-Impact-Data-Analysis/assets/130140391/3c79a557-fdec-4114-9891-acda1b7c7065)
+![Screenshot 2024-05-21 140538](https://github.com/TechMaster-007/Python-COVID-19-Trade-Impact-Data-Analysis/assets/130140391/47261fb2-f8c2-4abc-945c-dd213a8dcb76)
+
 
 
 
