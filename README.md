@@ -22,6 +22,8 @@ Fig4 : Top Commodities Affected :
 
 Fig5: Overall Trade Trend :
 
+![image](https://github.com/TechMaster-007/Python-COVID-19-Trade-Impact-Data-Analysis/assets/130140391/cdaba932-f6b2-4661-9c70-fac070857331)
+
 
 
 
