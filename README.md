@@ -27,7 +27,11 @@ Fig5: Overall Trade Trend :
 # Dataset:
 The dataset, "Effects of COVID-19 on trade: At 15 December 2021 (provisional)", contains columns indicating trade direction (imports/exports), date, country, commodity type, transport mode, and trade values.
 
-
+# Usage:
+This dataset can be used for various analyses, including but not limited to:
+1. Assessing the impact of COVID-19 on global trade.
+2. Analyzing trade patterns across different countries and commodities.
+3. Studying the effects of different transport modes on trade during the pandemic.
 
 
 
