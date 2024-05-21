@@ -33,5 +33,16 @@ This dataset can be used for various analyses, including but not limited to:
 2. Analyzing trade patterns across different countries and commodities.
 3. Studying the effects of different transport modes on trade during the pandemic.
 
+# Analyses Performed:
+1. Overall Trade Trend: Visualized the increasing trade value over the years 2019, 2020, and 2021.
+2. Exports vs. Imports: Compared the cumulative exports and imports over the mentioned years.
+3. Top Commodities Affected: Identified commodities with the most significant changes in trade value.
+4. Country Analysis: Checked the trade impact on specific countries.
+
+# Tools Used:
+1. Python: The primary language for data processing and analysis.
+2. Pandas: Used for data manipulation and analysis.
+3. Matplotlib: For data visualization and creating charts.
+
 
 
