@@ -11,6 +11,9 @@ Fig2 : Country Analysis:
 ![Screenshot 2024-05-21 140506](https://github.com/TechMaster-007/Python-COVID-19-Trade-Impact-Data-Analysis/assets/130140391/3c79a557-fdec-4114-9891-acda1b7c7065)
 ![Screenshot 2024-05-21 140538](https://github.com/TechMaster-007/Python-COVID-19-Trade-Impact-Data-Analysis/assets/130140391/47261fb2-f8c2-4abc-945c-dd213a8dcb76)
 
+Fig3 : Exports vs Imports:
+
+
 
 
 
